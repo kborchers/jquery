@@ -167,7 +167,7 @@ module.exports = function( grunt ) {
 						"ascii_only": true
 					},
 					banner: "/*! jQuery v<%= pkg.version %> | " +
-						"(c) JS Foundation and other contributors | jquery.org/license */",
+						"(c) JS Foundation and other contributors | js.foundation/CLA/#licenses */",
 					compress: {
 						"hoist_funs": false,
 						loops: false,
